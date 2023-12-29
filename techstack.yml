@@ -1,0 +1,10 @@
+repo_name: 2lambda123/StarWars
+report_id: bb6da0b01daa8d9f37dcd8a87f02f892
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-29T20:30:13+00:00'
+requested_by: snorkell-ai[bot]
+provider: github
+branch: master
+detected_tools_count: 0
+tools: []
