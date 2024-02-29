@@ -3,26 +3,26 @@
 ## Tech Stack
 2lambda123/StarWars is built on the following main stack:
 
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- [Microsoft IIS](http://www.iis.net/) – Web Servers
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Moq](https://github.com/Moq/moq4) – Testing Frameworks
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [xUnit](http://xunit.github.io/) – Testing Frameworks
-- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- [ESLint](http://eslint.org/) – Code Review
-- [GraphQL](http://graphql.org/) – Query Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
-- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
 - [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- [GraphQL](http://graphql.org/) – Query Languages
+- [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Microsoft IIS](http://www.iis.net/) – Web Servers
+- [Moq](https://github.com/Moq/moq4) – Testing Frameworks
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [xUnit](http://xunit.github.io/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -32,26 +32,26 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/StarWars is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1056/J5gFiHbG.png' alt='Microsoft IIS'/> [Microsoft IIS](http://www.iis.net/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1628/1434934.png' alt='Moq'/> [Moq](https://github.com/Moq/moq4) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/7879/GraphiQL.png' alt='GraphiQL'/> [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'/> [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'/> [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/7879/GraphiQL.png' alt='GraphiQL'/> [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1056/J5gFiHbG.png' alt='Microsoft IIS'/> [Microsoft IIS](http://www.iis.net/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1628/1434934.png' alt='Moq'/> [Moq](https://github.com/Moq/moq4) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/StarWars](https://github.com/2lambda123/StarWars)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|54<br/>Tools used|01/05/24 <br/>Report generated|
+|54<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
